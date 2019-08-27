@@ -4065,4 +4065,16 @@
         xsi:type="archimate:Capability"
         href="Capability_9e84e26b-39b1-4f34-bc8f-8d75dc1560a1.xml#9e84e26b-39b1-4f34-bc8f-8d75dc1560a1"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="d7b237ad-1e4d-413f-951e-5ccb9876347e">
+    <bounds
+        x="1812"
+        y="60"
+        width="157"
+        height="85"/>
+    <archimateElement
+        xsi:type="archimate:Artifact"
+        href="Artifact_6ca74708-5354-4a25-abad-2244cd3a1935.xml#6ca74708-5354-4a25-abad-2244cd3a1935"/>
+  </children>
 </archimate:ArchimateDiagramModel>
