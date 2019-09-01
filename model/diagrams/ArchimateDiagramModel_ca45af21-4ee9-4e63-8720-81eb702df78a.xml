@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="GC Standard Software to BCM Mapping - Finance"
+    name="GC Transitional BCM Mapping - Finance"
     id="ca45af21-4ee9-4e63-8720-81eb702df78a">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
