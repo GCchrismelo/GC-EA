@@ -563,9 +563,9 @@
           href="TriggeringRelationship_46b0a895-bf75-40ea-b680-399e8e317a41.xml#46b0a895-bf75-40ea-b680-399e8e317a41"/>
     </sourceConnections>
     <bounds
-        x="362"
+        x="348"
         y="144"
-        width="214"
+        width="240"
         height="28"/>
     <archimateElement
         xsi:type="archimate:WorkPackage"
