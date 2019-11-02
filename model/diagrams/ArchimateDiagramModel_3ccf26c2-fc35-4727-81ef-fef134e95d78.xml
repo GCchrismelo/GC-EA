@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="GCcase Layered Viewpoint"
+    name="GCcase Layered View"
     id="3ccf26c2-fc35-4727-81ef-fef134e95d78">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

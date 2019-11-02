@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="GC Standard Apps BCM Mapping - L1"
-    id="0b7c2da8-f74f-49fb-827a-12dacf06bf1b">
+    id="0b7c2da8-f74f-49fb-827a-12dacf06bf1b"
+    viewpoint="layered">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="f69b310b-7f0d-4ff4-8b8d-763ad7b94a7a"
